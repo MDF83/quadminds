@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Mercado Libre_andes-tooltip-button-close</name>
+   <tag></tag>
+   <elementGuidId>2fa68352-8cc0-4e75-8dde-d4643981e5b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@role = 'button' and @class = 'andes-tooltip-button-close' and @data-js = 'onboarding-cp-close']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>andes-tooltip-button-close</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-js</name>
+      <type>Main</type>
+      <value>onboarding-cp-close</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-origin</name>
+      <type>Main</type>
+      <value>cross</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;with-related-searches   with-banner  site-MLA   layout-base  ML&quot;]/div[@class=&quot;onboarding-cp&quot;]/div[@class=&quot;onboarding-cp-tooltip andes-tooltip andes-tooltip--light andes-tooltip-placement-bottomLeft&quot;]/div[@class=&quot;andes-tooltip-content&quot;]/div[@class=&quot;andes-tooltip-inner&quot;]/div[@class=&quot;andes-tooltip-data&quot;]/span[@class=&quot;andes-tooltip-button-close&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span</value>
+   </webElementXpaths>
+</WebElementEntity>
